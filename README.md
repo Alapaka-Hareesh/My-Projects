@@ -27,12 +27,12 @@ Used mainly in text generation, code generation, and chatbots.
 Python is the most popular language for generative AI due to its strong ecosystem.
 Here are the most common tools used:
 
-**Category**	                        **Python Libraries / Tools**	                         
-Deep Learning Frameworks              TensorFlow, PyTorch, Keras                         
-Text Generation                       Transformers (Hugging Face), OpenAI API, LangChain
-Image Generation                      Stable Diffusion, DALL·E API, diffusers
-Data Handling                         NumPy, Pandas, Matplotlib
-Model Training Utilities              scikit-learn, tqdm, Weights & Biases
+**Category**	  **and**                     **Python Libraries / Tools**	                         
+Deep Learning Frameworks:              TensorFlow, PyTorch, Keras                         
+Text Generation:                       Transformers (Hugging Face), OpenAI API, LangChain
+Image Generation:                      Stable Diffusion, DALL·E API, diffusers
+Data Handling:                         NumPy, Pandas, Matplotlib
+Model Training Utilities:              scikit-learn, tqdm, Weights & Biases
 
 **4. Typical Generative AI Project Workflow**
 Here’s how a generative AI project using Python is typically structured:

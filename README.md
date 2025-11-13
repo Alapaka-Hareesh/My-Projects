@@ -1,6 +1,7 @@
 # My-Projects
 Real time projects with Artificial Intelligence with python code
 Here I am going to explain about what Generative AI is, how it works, the Python tools involved, and examples of common projects.
+
 **1. What is Generative AI?**
 Generative AI refers to a class of artificial intelligence systems that can create new content — such as text, images,audio,code, or even video — based on patterns learned from existing data.
 Unlike traditional AI (which classifies or predicts), Generative AI produces something new that resembles human-created content.

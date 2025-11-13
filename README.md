@@ -5,10 +5,12 @@ Here I am going to explain about what Generative AI is, how it works, the Python
 **1. What is Generative AI?**
 Generative AI refers to a class of artificial intelligence systems that can create new content — such as text, images,audio,code, or even video — based on patterns learned from existing data.
 Unlike traditional AI (which classifies or predicts), Generative AI produces something new that resembles human-created content.
+
 **2.Common Generative Model Types:**
 Variational Autoencoders (VAEs)
 Learn compressed representations (latent space) of data.
 Can generate realistic variations of input data.
+
 
 Generative Adversarial Networks (GANs)
 Consist of a Generator and Discriminator in competition.
@@ -20,12 +22,11 @@ Learn to reverse the process of adding noise to data.
 Transformers (like GPT, BERT, etc.)
 Used mainly in text generation, code generation, and chatbots.
 
-3. Python Tools and Libraries for Generative AI
+**3.Python Tools and Libraries for Generative AI**
 
 Python is the most popular language for generative AI due to its strong ecosystem.
 Here are the most common tools used:
 
-**3. Python Tools and Libraries for Generative AI**
 **Category**	                        **Python Libraries / Tools**	                         
 Deep Learning Frameworks              TensorFlow, PyTorch, Keras                         
 Text Generation                       Transformers (Hugging Face), OpenAI API, LangChain
